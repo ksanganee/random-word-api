@@ -20,3 +20,5 @@ def GetWord():
 
 
 app.run(host="0.0.0.0:PORT80")
+
+# On port 5000
